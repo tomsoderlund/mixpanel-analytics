@@ -1,0 +1,132 @@
+{
+  "Register": {
+    "name": "Register",
+    "count": 2,
+    "children": {
+      "Login": {
+        "name": "Login",
+        "count": 2,
+        "children": {
+          "New project": {
+            "name": "New project",
+            "count": 1,
+            "children": {
+              "Open project": {
+                "name": "Open project",
+                "count": 1,
+                "children": {
+                  "Open project": {
+                    "name": "Open project",
+                    "count": 1,
+                    "children": {
+                      "New project": {
+                        "name": "New project",
+                        "count": 1,
+                        "children": {
+                          "Open project": {
+                            "name": "Open project",
+                            "count": 1,
+                            "children": {
+                              "Convert model": {
+                                "name": "Convert model",
+                                "count": 1,
+                                "children": {
+                                  "Convert model": {
+                                    "name": "Convert model",
+                                    "count": 1,
+                                    "children": {
+                                      "Export website": {
+                                        "name": "Export website",
+                                        "count": 1,
+                                        "children": {
+                                          "Publish project": {
+                                            "name": "Publish project",
+                                            "count": 1,
+                                            "children": {
+                                              "Convert model": {
+                                                "name": "Convert model",
+                                                "count": 1,
+                                                "children": {
+                                                  "Convert model": {
+                                                    "name": "Convert model",
+                                                    "count": 1,
+                                                    "children": {
+                                                      "Login": {
+                                                        "name": "Login",
+                                                        "count": 1,
+                                                        "children": {
+                                                          "Open project": {
+                                                            "name": "Open project",
+                                                            "count": 1,
+                                                            "children": {
+                                                              "$campaign_delivery": {
+                                                                "name": "$campaign_delivery",
+                                                                "count": 1,
+                                                                "children": {
+                                                                  "$campaign_open": {
+                                                                    "name": "$campaign_open",
+                                                                    "count": 1,
+                                                                    "children": {
+                                                                      "$campaign_open": {
+                                                                        "name": "$campaign_open",
+                                                                        "count": 1,
+                                                                        "children": {
+                                                                          "$campaign_open": {
+                                                                            "name": "$campaign_open",
+                                                                            "count": 1,
+                                                                            "children": {}
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Open template project": {
+            "name": "Open template project",
+            "count": 1,
+            "children": {
+              "$campaign_delivery": {
+                "name": "$campaign_delivery",
+                "count": 1,
+                "children": {
+                  "$campaign_open": {
+                    "name": "$campaign_open",
+                    "count": 1,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

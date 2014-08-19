@@ -1,0 +1,12 @@
+{
+	"api_key": "ENTER_API_KEY",
+	"api_secret": "ENTER_API_SECRET",
+	"user_alias_field": "$email",
+	"default_events": [
+		"Login",
+		"Register",
+		"Create project",
+		"Open project",
+		"Delete project"
+	]
+}
